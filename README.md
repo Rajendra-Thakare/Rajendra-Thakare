@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajendra Thakare</h1>
-<h3 align="center">Linux Engineer | Cloud | DevOps</h3>
+<h3 align="center">Linux Systems Engineer | Infrastructure Automation | DevOps</h3>
 
 <p align="center">
-  Linux Engineer | Azure Cloud | DevOps | Automation | CCNA | Networking Enthusiast
+  <strong>Administering mission-critical, high-security bare-metal infrastructures & enterprise cloud environments.</strong>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajendra-Thakare&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rajendra-Thakare&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Rajendra-Thakare?label=Followers&style=flat-square&color=24292e" alt="followers" />
 </p>
 
 <p align="center">
@@ -17,107 +18,74 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Azure Cloud Infrastructure (IaaS & PaaS)** including deployment, monitoring, and management  
-- 🌱 Actively learning **DevOps tools, cloud automation, CI/CD, and container orchestration**  
-- 💬 Ask me about **Linux, Azure, Networking, Monitoring, Automation & Scripting**  
-- 📫 Reach me at **rthakre992@gmail.com**  
+- 🔭 **Current Focus:** Administering enterprise environments across **RHEL, Ubuntu, Debian, and CentOS**, managing enterprise proxy authentication, and hardening bare-metal setups.
+- 🌱 **Actively Mastering:** Scalable Cloud Architecture (**Microsoft Azure**), Infrastructure as Code (**Terraform**), and GitOps CI/CD pipelines.
+- 💬 **Ask Me About:** GRUB recovery/chroot rescues, systemd lifecycle management, LVM storage persistence, Bash-driven automation, and CCNA framework routing.
+- 📫 **Reach Me:** Drop an email at **rthakre992@gmail.com** or connect with me via the social links below.
 
 ---
 
-### 💼 Experience Summary
+### 💼 Engineering Strengths & Production Scale
 
-Linux System Engineer with hands-on experience in **system monitoring, troubleshooting, and cloud infrastructure support**. Key responsibilities and expertise:
-
-- **Linux Administration**: Monitoring and optimizing system performance using `htop`, `top`, `ps`, `df`, `free`, and `journalctl`. Troubleshooting CPU, memory, and process-related issues effectively.  
-- **Cloud Infrastructure (Azure)**: Deploying and managing Virtual Machines, VNets, Storage Accounts, NSGs, Azure Monitor, and Azure AD. Understanding IaaS and PaaS service management.  
-- **DevOps Fundamentals**: Git version control, Docker containerization, basic Kubernetes concepts, CI/CD pipeline awareness, and automation using Bash & Python scripts.  
-- **Networking & Security**: TCP/IP, DNS, DHCP, routing, subnetting, firewall configurations; CCNA foundation-level understanding for enterprise networking.  
-- Passionate about **building scalable, reliable, and secure cloud environments** while continuously learning emerging technologies.  
+*   **Bare-Metal Infrastructure at Scale:** Maintained **99.9% uptime** across **750+ physical servers and 1,200+ total nodes** in highly restricted, defense-grade environments.
+*   **Low-Level Linux Internals:** Hands-on experience executing physical OS migrations, kernel upgrades, emergency GRUB bootloader recovery using live rescue/chroot media, and isolating system failure patterns using `journalctl`.
+*   **Infrastructure Automation:** Developed production-grade **Bash shell pipelines** and automated crontab workflows (log rotation, cluster time-sync, real-time health checks) saving hours of manual administrative overhead weekly.
+*   **Enterprise Networking & Storage:** Configuring forward/reverse proxy authentication servers, managing custom bypass rules, static routing configurations, and mounting **LVM / persistent network storage (SMB/NFS shares)** via `/etc/fstab`.
 
 ---
 
-### 🏆 Certifications & Training
+### 🛠️ Technical Toolkit
 
-- **Red Hat Certified System Administrator (RHEL 9)** – Training Certificate  
-- **Cisco Certified Network Associate (CCNA)** – Training Certificate  
-- **Microsoft Certified Azure Administrator Associate (AZ-104)** – Training Certificate  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![CentOS](https://img.shields.io/badge/CentOS-262574?style=flat-square&logo=centos&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) |
+| **Cloud & IaC** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) |
+| **CI/CD & Containers** | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Systems Diagnostics**| `systemd` `LVM` `journalctl` `htop` `vmstat` `iostat` `sar` `netstat` `chroot` |
+| **Scripting & Web** | ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) |
 
 ---
 
-### 🤝 Connect with Me
+### 🚀 Highlighted Infrastructure Projects
+
+#### 🕒 **Automated Cluster Time-Synchronization Framework**
+*   **The Problem:** Configuration drift across a 1,200+ node physical cluster was causing severe log timestamp corruption and security audit failures.
+*   **The Solution:** Built and deployed a distributed Bash infrastructure script leveraging dynamic `timedatectl` execution pipelines to standardize NTP alignment. Dynamically bound system software clocks to hardware via `hwclock --systohc` to guarantee persistent consistency across machine reboots.
+
+#### 🔄 **Hybrid CI/CD Pipeline & Cloud Migration**
+*   **The Solution:** Designed and implemented an automated build/deployment workflow across Jenkins, GitHub, and Azure Repos. Provisioned an Ubuntu-backed, self-hosted Docker agent pool to bypass public cloud compute caps and minimize execution expenses.
+*   **Troubleshooting Win:** Unblocked critical production stalls by debugging Bash exit code 127 errors, resolving complex `docker.sock` permission mismatches, and fixing hidden YAML structural variables.
+
+---
+
+### 🏆 Professional Credentials
+
+- 🎓 **Red Hat Enterprise Linux (RHEL) Infrastructure Training**
+- 🎓 **Microsoft Certified: Azure Administrator Associate (AZ-104) Training**
+- 🎓 **Cisco Certified Network Associate (CCNA) Training**
+
+---
+
+### 🤝 Let's Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rajendrathakare" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+<a href="https://www.linkedin.com/in/rajendra-thakare" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
 </a>
 <a href="https://dev.to/rajendra_thakre_8ccc5" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" alt="Dev.to"/>
 </a>
 <a href="https://www.instagram.com/itz_rajendra_thakre/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
-</a>
-<a href="https://www.youtube.com/channel/UCESOGIVG15TRZD_IZ-XQ1TG" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Skills & Technologies
-
-#### 🐧 Operating Systems
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45" title="Ubuntu"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" width="45" title="RHEL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" width="45" title="CentOS"/>
-</p>
-
-#### ⚙️ DevOps / CI-CD
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="45" title="Azure DevOps"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" title="Jenkins"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" title="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="45" title="Ansible"/>
-</p>
-
-#### ☁️ Cloud & Monitoring Tools
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="45" title="Microsoft Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" title="Prometheus"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="45" title="Grafana"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/435/435038.png" width="45" title="htop"/>
-</p>
-
-#### 🌐 Web Servers
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="45" title="Apache"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" title="Nginx"/>
-</p>
-
-#### 💻 Programming & Scripting
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" title="Bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" title="Go Lang"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" title="Java"/>
-</p>
-
-#### 🌐 Networking & Security
-<p align="left">
-  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="45" title="Networking"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Cisco_CCNA_logo.png" width="45" title="CCNA"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Ecosystem Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajendra-Thakare&show_icons=true&theme=onedark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajendra-Thakare&show_icons=true&theme=onedark&count_private=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajendra-Thakare&layout=compact&theme=onedark" height="160" />
 </p>
 
