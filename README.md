@@ -1,168 +1,128 @@
-<h1 align="center">Hi 👋, I'm Rajendra Thakare</h1>
-<h3 align="center">Linux Systems Engineer | Infrastructure Automation | DevOps</h3>
+<div align="center">
+
+# 👋 Hi, I'm Rajendra Thakare
+
+### 🐧 Linux Engineer | 📊 Monitoring | ☁️ Cloud & DevOps
+
+I work on Linux administration, infrastructure monitoring, networking,
+and hands-on cloud and DevOps projects.
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+[Explore My Repositories](https://github.com/Rajendra-Thakare?tab=repositories)
+· [Connect on LinkedIn](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🐧 Focused on Linux administration and infrastructure support.
+- 📈 Building practical monitoring solutions with Prometheus and Grafana.
+- 🌐 Interested in networking, troubleshooting, and system reliability.
+- ☁️ Learning and practicing cloud and DevOps tools through hands-on projects.
+- 🛠️ I enjoy documenting problems, solutions, and technical learnings.
+
+## 🧰 Skills & Technologies
+
+| Area | Technologies |
+|---|---|
+| Operating Systems | Linux, Ubuntu, RHEL, CentOS |
+| Scripting | Bash, Shell |
+| Monitoring | Prometheus, Grafana, Blackbox Exporter |
+| Networking | TCP/IP, DNS, DHCP, ICMP |
+| Virtualization | VMware vSphere / ESXi |
+| Cloud | Microsoft Azure |
+| DevOps | Git, GitHub, Terraform, Jenkins |
+| Automation | Bash scripts, systemd services and timers |
 
 <p align="center">
-  <strong>Administering mission-critical, high-security bare-metal infrastructure and enterprise cloud environments.</strong>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,prometheus,grafana,azure,terraform,git,github,jenkins" alt="Technology icons" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajendra-Thakare&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Rajendra-Thakare?label=Followers&style=flat-square&color=24292e" alt="followers" />
+## 🚀 Featured Projects
+
+### 📡 Linux Network IP Monitoring
+
+A hands-on project focused on monitoring network reachability using
+Prometheus, Blackbox Exporter, and Grafana.
+
+- ICMP reachability monitoring
+- Prometheus scrape configuration
+- Grafana dashboards and PromQL queries
+- Network discovery automation (where configured)
+- Documentation and troubleshooting notes
+
+🔗 [View Project Repository](https://github.com/Rajendra-Thakare/linux-network-ip-monitoring)
+
+### ☁️ Cloud & DevOps Projects
+
+I also practice cloud infrastructure, automation, CI/CD, and Linux
+administration through lab projects.
+
+- Azure infrastructure with Terraform
+- Jenkins and GitHub-based CI/CD practice
+- Linux system administration and automation
+
+🔗 [Browse All My Repositories](https://github.com/Rajendra-Thakare?tab=repositories)
+
+> Project descriptions reflect my learning and lab work. Check each
+> repository for its current implementation and setup instructions.
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajendra-Thakare&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajendra-Thakare&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rajendra-Thakare&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 🗓️ Contribution Graph
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/409ba5/Rajendra-Thakare" alt="GitHub contribution graph" />
+
+</div>
+
+## 📫 Contact & Connect
+
+<p>
+  <a href="https://github.com/Rajendra-Thakare">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rajendra-Thakare&theme=onedark&margin-w=10" alt="github trophies" />
-</p>
+- LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
+- Portfolio: [Visit my portfolio](YOUR_PORTFOLIO_URL)
+- Email: YOUR_PUBLIC_CONTACT_EMAIL
 
 ---
 
-### 👨‍💻 About Me
+<div align="center">
 
-- 🔭 **Current Focus:** Administering enterprise Linux environments (RHEL, Ubuntu, Debian, CentOS), managing proxy authentication, and hardening bare-metal infrastructure.
-- 🌱 **Actively Learning:** Scalable cloud architecture on **Microsoft Azure**, Infrastructure as Code with **Terraform**, and GitOps-based CI/CD pipelines.
-- 💬 **Ask Me About:** GRUB recovery and chroot rescues, systemd lifecycle management, LVM storage persistence, Bash automation, and networking fundamentals (CCNA).
-- 📫 **Reach Me:** rthakre992@gmail.com · [LinkedIn](https://www.linkedin.com/in/rajendra-thakare) · [Dev.to](https://dev.to/rajendra_thakre_8ccc5)
+### 💡 Learn • Build • Troubleshoot • Improve
 
----
+*Thanks for visiting my profile!*
 
-### 💼 Engineering Strengths & Production Scale
-
-| Area | Details |
-| :--- | :--- |
-| **Bare-Metal Infrastructure** | Maintained 99.9% uptime across 750+ physical servers and 1,200+ total nodes in restricted, high-security environments. |
-| **Linux Internals** | Physical OS migrations, kernel upgrades, GRUB bootloader recovery via live rescue/chroot media, root-cause analysis with `journalctl`. |
-| **Infrastructure Automation** | Bash pipelines and cron workflows for log rotation, cluster time-sync, and health checks — cut manual ops work from [X hrs/week] to [Y minutes]. |
-| **Networking & Storage** | Forward/reverse proxy authentication servers, static routing, LVM and NFS/SMB persistent mounts via `/etc/fstab`. |
-
----
-
-### 🛠️ Technical Toolkit
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Operating Systems** | 
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
- 
-
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-
- 
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
- 
-
-![CentOS](https://img.shields.io/badge/CentOS-262574?style=flat-square&logo=centos&logoColor=white)
-
- 
-
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-
- |
-| **Cloud & IaC** | 
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-
- 
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
- |
-| **CI/CD & Containers** | 
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
- 
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
- 
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
- 
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
- 
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
- |
-| **Systems Diagnostics** | `systemd` `LVM` `journalctl` `htop` `vmstat` `iostat` `sar` `netstat` `chroot` |
-| **Scripting & Web** | 
-
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
- 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
- 
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
- 
-
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
- 
-
-![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-
- |
-
----
-
-### 🚀 Featured Projects
-
-#### 🕒 Automated Cluster Time-Synchronization Framework
-- **Problem:** Configuration drift across a 1,200+ node cluster caused log timestamp corruption and security audit failures.
-- **Solution:** Distributed Bash framework using `timedatectl` to enforce NTP alignment, with `hwclock --systohc` to persist hardware clock sync across reboots.
-- **Stack:** Bash, cron, systemd-timesyncd
-- **Repo:** [Add link →](#)
-
-#### 🔄 Hybrid CI/CD Pipeline & Cloud Migration
-- **Problem:** Public cloud compute caps and cost were slowing build throughput.
-- **Solution:** Jenkins + GitHub + Azure Repos pipeline backed by a self-hosted Ubuntu/Docker agent pool; resolved exit code 127 failures, `docker.sock` permission issues, and hidden YAML formatting bugs.
-- **Stack:** Jenkins, Docker, Azure Repos, Bash
-- **Repo:** [Add link →](#)
-
----
-
-### 📚 Training & Coursework
-
-- Red Hat Enterprise Linux (RHEL) Infrastructure — Training completed
-- Microsoft Azure Administrator Associate (AZ-104) — Training completed
-- Cisco Certified Network Associate (CCNA) — Training completed
-
----
-
-### 🤝 Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rajendra-thakare" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
-</a>
-<a href="https://dev.to/rajendra_thakre_8ccc5" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" alt="Dev.to"/>
-</a>
-<a href="https://www.instagram.com/itz_rajendra_thakre/" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram"/>
-</a>
-</p>
-
----
-
-### 📊 GitHub Ecosystem Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajendra-Thakare&show_icons=true&theme=onedark&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rajendra-Thakare&layout=compact&theme=onedark" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajendra-Thakare&theme=onedark" />
-</p>
+</div>
